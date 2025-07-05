@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - main
+    paths:
+      - 'src/**'
+      - 'random_nft/**'
+
 jobs:
   extract:
     runs-on: ubuntu-latest
