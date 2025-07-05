@@ -1,0 +1,19 @@
+{
+  "name": "mvr-test-move",
+  "version": "1.0.0",
+  "description": "Extracts function signatures from Move source files for use in MVR metadata and PTB builder integration.",
+  "homepage": "https://github.com/zktx-io/mvr-test-move#readme",
+  "bugs": {
+    "url": "https://github.com/zktx-io/mvr-test-move/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zktx-io/mvr-test-move.git"
+  },
+  "license": "ISC",
+  "author": "daoauth",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
