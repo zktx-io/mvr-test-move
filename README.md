@@ -1,5 +1,7 @@
 # Move Interface Extractor
 
+![Move Interface Extractor](./move.png)
+
 This project extracts function signatures (function name, parameter names/types, and return type) from Move smart contract modules.
 
 ## Purpose
@@ -10,7 +12,7 @@ This project extracts function signatures (function name, parameter names/types,
 
 ## Output
 
-You can view the extracted function and parameter names directly in the GitHub Actions [workflow logs](https://github.com/zktx-io/mvr-test-move/actions) after each push.
+You can view the extracted function and parameter names directly in the GitHub Actions [workflow logs](https://github.com/zktx-io/mvr-test-move/actions/runs/16089414330/job/45404504649) after each push.
 
 ### Format
 
