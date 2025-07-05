@@ -18,7 +18,7 @@ You can view the extracted function and parameter names directly in the GitHub A
 
 The output is printed as a JSON object like this:
 
-```json
+```
 {
   "0x2::example_module": [
     {
